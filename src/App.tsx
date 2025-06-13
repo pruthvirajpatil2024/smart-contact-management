@@ -10,7 +10,6 @@ import AnalyticsPage from './components/analytics/AnalyticsPage';
 import { ThemeProvider } from './context/ThemeContext';
 import { ContactProvider } from './context/ContactContext';
 import { NotificationProvider } from './context/NotificationContext';
-
 function App() {
   return (
     <ThemeProvider>
