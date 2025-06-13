@@ -1,6 +1,5 @@
 import axios from 'axios';
 import { Contact } from '../types';
-
 const API_BASE_URL = 'http://localhost:8081';
 
 const api = axios.create({
